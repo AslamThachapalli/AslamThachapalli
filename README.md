@@ -2,6 +2,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="100"/>
   
   <div id="badges">
+  <a href="https://aslamthachapalli.web.app/">
+    <img src="https://img.shields.io/badge/Website-536878?style=for-the-badge&logo=brave&logoColor-F17829" alt="Website Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/aslam-thachapalli/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

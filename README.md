@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="100"/>
   
   <div id="badges">
-  <a href="https://aslamthachapalli.web.app/">
+  <a href="https://aslamthachapalli.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-536878?style=for-the-badge&logo=brave&logoColor-F17829" alt="Website Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/aslam-thachapalli/">
+  <a href="https://www.linkedin.com/in/aslam-thachapalli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@aslam.develop912">
+  <a href="https://medium.com/@aslam.develop912" target="_blank">
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
   </div>

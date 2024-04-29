@@ -2,18 +2,18 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="100"/>
   
   <div id="badges">
-  <a href="https://aslamthachapalli.web.app/" target="_blank">
+<!--   <a href="https://aslamthachapalli.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-536878?style=for-the-badge&logo=brave&logoColor-F17829" alt="Website Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aslam-thachapalli/" target="_blank">
+  </a> -->
+<!--   <a href="https://www.linkedin.com/in/aslam-thachapalli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> -->
   <a href="https://medium.com/@aslam.develop912" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="https://twitter.com/aslamdev912" target="_blank">
+<!--   <a href="https://twitter.com/aslamdev912" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-  </a>
+  </a> -->
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=AslamThachapalli&style=flat-square&color=blue" alt=""/>

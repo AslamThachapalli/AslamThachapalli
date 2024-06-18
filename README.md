@@ -36,7 +36,7 @@ I am a Mobile App and Website Developer <img src="https://media.giphy.com/media/
   
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve DSA and read history.
+- :zap: In my free time, I read history.
 
 - :mailbox: How to reach me: &nbsp; [![Email Badge](https://img.shields.io/badge/Email-white?style=flat&logo=Gmail&logoColor=black)](mailto:aslam.develop912@gmail.com)
 <!---
